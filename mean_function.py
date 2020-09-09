@@ -1,4 +1,4 @@
-# Week 3 Assignment 1
+# Week 3 Assignment 2
 # Given a function f and a closed interval [a,b]. copmute the mean value of the function on the interval using two alterative approaches:
 # 1. compute the mean over n equispaced points in the interval
 # 2. compute the mean over n random points in the interval
